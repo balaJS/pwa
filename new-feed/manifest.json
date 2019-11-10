@@ -1,0 +1,20 @@
+{
+  "short_name": "News Feed",
+  "name": "News Feed",
+  "icons": [
+    {
+      "src": "resource/icons-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "resource/icons-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/projects/js/pwa/new-feed/index.html",
+  "display": "standalone",
+  "background_color": "#3367D6",
+  "theme_color": "#3367D6"
+}
